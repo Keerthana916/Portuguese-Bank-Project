@@ -1,4 +1,4 @@
-# 🏦 Portuguese Bank Marketing Prediction
+# Portuguese Bank Marketing Prediction
 
  A machine learning classification project that predicts whether a bank customer will subscribe to a term deposit based on customer characteristics, previous campaign interactions, and economic indicators.
 
