@@ -36,14 +36,12 @@ The dataset contains customer information, campaign-related variables, previous 
 
 ### Target Variable
 
-`y`
-
 * `yes` → Customer subscribed to a term deposit
 * `no` → Customer did not subscribe
 
 ---
 
-## 🧬 Key Features
+## Key Features
 
 | Feature          | Description                            |
 | ---------------- | -------------------------------------- |
