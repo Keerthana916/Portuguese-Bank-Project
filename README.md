@@ -161,7 +161,7 @@ These variables represent different aspects of the broader economic environment 
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The project compares several classification algorithms:
 
