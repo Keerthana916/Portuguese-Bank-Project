@@ -101,7 +101,7 @@ The project performs univariate and bivariate analysis to understand customer be
 
 Customers with professional courses and high-school education showed comparatively better subscription rates.
 
-### 💳 Loans
+### Loans
 
 Customers without personal loans appeared more likely to subscribe to the term deposit.
 
